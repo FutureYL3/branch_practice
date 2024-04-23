@@ -37,6 +37,7 @@ public class EmployeeController {
     private JwtProperties jwtProperties;
     // 修改的内容
     private Boolean isLogged = false;
+    // branch-B edit
 
     /**
      * 登录
